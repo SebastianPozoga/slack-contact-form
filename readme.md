@@ -24,3 +24,6 @@ Example: `curl https://ijjk.slack.com/api/conversations.list --form token='SLACK
 
 - Add emoji previewing in the form to allow seeing Slack emojis in the textarea
 - Add spam prevention by storing hash of sender's IP in the message and looking up the messages for previous messages sent with the IP's hash
+
+## Slack token
+https://api.slack.com/custom-integrations/legacy-tokens
